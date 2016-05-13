@@ -1,0 +1,10 @@
+{
+  "name": "gusaap",
+  "author": "laragno",
+  "dependencies": {
+    "jsx-loader": "^0.13.2",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "webpack": "^1.13.0"
+  }
+}
